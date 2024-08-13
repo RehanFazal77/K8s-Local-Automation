@@ -14,7 +14,7 @@ Before running the script, ensure that you have the following installed on your 
 Getting Started<br/>
 Step 1: Clone the Repository<br/>
   Clone this repository to your local machine:<br/>
-  git clone <br/>
+  git clone https://github.com/RehanFazal77/K8s-Local-Automation.git <br/>
   cd kubernetes-nginx-kind<br/>
 
 Step 2: Run the Deployment Script
